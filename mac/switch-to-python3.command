@@ -1,7 +1,7 @@
 # https://brew.sh/
 # https://opensource.com/article/19/5/python-3-default-mac
 
-PYTHON_VERSION=3.7.7
+PYTHON_VERSION=3.8.7
 
 # 1. install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
