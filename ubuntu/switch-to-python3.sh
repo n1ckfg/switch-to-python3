@@ -1,7 +1,7 @@
 # https://unix.stackexchange.com/questions/410579/change-the-python3-default-version-in-ubuntu
 # https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/
 
-PYTHON_VERSION=3.7
+PYTHON_VERSION=3.8
 
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt-get update
