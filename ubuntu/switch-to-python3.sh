@@ -6,6 +6,7 @@ PYTHON_VERSION=3.10
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt-get update
 sudo apt-get install python$PYTHON_VERSION
+!apt-get install python$PYTHON_VERSION-distutils python$PYTHON_VERSION-dev
 
 sudo update-alternatives --remove-all python
 sudo update-alternatives --remove-all python3
